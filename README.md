@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on different kind of projects.
 - 🌱 I’m currently learning TypeScript, JavaScript, ...
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/samuel-caron-06814323a/" target=blank>My LinkedIn</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/samuel-caron-06814323a/" target="_blank">My LinkedIn</a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=CaronSamuel&show_icons=true&theme=buefy" alt="CaronSamuel" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaronSamuel&layout=compact&hide=html&theme=buefy" alt="CaronSamuel" /> |
 | ------------- | ------------- |
