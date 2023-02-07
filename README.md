@@ -13,7 +13,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caronsamuel&show_icons=true&locale=en" alt="caronsamuel" /></p>
 
-<h2 align="left">Contact Me</h2>
+## Contact Me:
 - Mail : samuelcarondu9@gmail.com
 - Here is my <a target="_blank" href="https://www.linkedin.com/in/samuel-caron-06814323a/">LinkedIn</a>
 
