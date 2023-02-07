@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img src="https://github-readme-stats.vercel.app/api?username=CaronSamuel&show_icons=true&theme=buefy" alt="CaronSamuel" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaronSamuel&layout=compact&hide=html&theme=buefy" alt="CaronSamuel" /> |
+| ------------- | ------------- |
+
 <!--
 **CaronSamuel/CaronSamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
