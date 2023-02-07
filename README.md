@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caronsamuel&label=Profile%20views&color=0e75b6&style=flat" alt="caronsamuel" /> </p>
 
+- 🔭 I’m currently working on different kind of projects.
+- 🌱 I’m currently learning TypeScript, JavaScript, ...
 - 📫 How to reach me : **samuelcarondu9@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
