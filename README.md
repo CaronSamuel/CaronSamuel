@@ -16,7 +16,6 @@
 
 <h2 align="left">Contact Me</p>
 - Mail : **samuelcarondu9@gmail.com**
-- <a target="_blank" href="https://www.linkedin.com/in/samuel-caron-06814323a/">My LinkedIn</a>
 
 
 <!--
