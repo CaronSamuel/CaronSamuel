@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Caron Samuel</h1>
 <h3 align="center">I'm a French student in the second year of a University Bachelor of Technology, in computer science.</h3>
 
-<a href="https://app.daily.dev/caronsamuel"><img src="https://api.daily.dev/devcards/54ecdac81d26428e939eecdb970a2893.png?r=5kv" width="400" alt="CARON Samuel's Dev Card"/></a>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caronsamuel&label=Profile%20views&color=0e75b6&style=flat" alt="caronsamuel" /> </p>
 
 - 🔭 I’m currently working on different kind of projects.
