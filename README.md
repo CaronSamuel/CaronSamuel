@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caron Samuel</h1>
-<h3 align="center">I'm a French apprentice student in the third year of a University Bachelor of Technology, in computer science.</h3>
+<h3 align="center">I am a first-year master's student in computer science, doing an apprenticeship.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caronsamuel&label=Profile%20views&color=0e75b6&style=flat" alt="caronsamuel" /> </p>
 
